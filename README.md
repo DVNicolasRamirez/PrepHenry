@@ -1,2 +1,2 @@
 Nicolas Ramirez
-Este Proyercto es una prueba de como crear un repositorio y clonarlo desde github a la computadora.
+Este Proyecto es una prueba de como crear un repositorio y clonarlo desde github a la computadora.
