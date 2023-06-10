@@ -1,2 +1,2 @@
-# PrepHenry
-Este es un repositorio de prueba del modulo 2 del prepcourse de Henry
+Nicolas Ramirez
+Este Proyercto es una prueba de como crear un repositorio y clonarlo desde github a la computadora.
